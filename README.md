@@ -1,5 +1,6 @@
 # Applied-Workshop-In-Data-Science
 Predicting Wildfire Causes in the USA
+
 **Project Overview**
 This project, part of the Applied Competitive Lab in Data Science course, aims to predict the causes of wildfires in the United States using advanced machine learning techniques. By analyzing a comprehensive dataset of wildfire occurrences, we seek to develop a model that can accurately identify the causes of wildfires, thereby enhancing fire management and prevention strategies.
 
